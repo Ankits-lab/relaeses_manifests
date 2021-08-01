@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="lineage-18.1" />
+ <project path="device/motorola/cedric" name="kiam001/android_device_motorola_cedric" remote="github" revision="Arrow-11" />
+ <project path="device/motorola/msm8937-common" name="LineageOS/android_device_motorola_msm8937-common" remote="github" revision="lineage-18.1" />
+ <project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="lineage-18.1" />
+ <project path="kernel/motorola/msm8953" name="LineageOS/android_kernel_motorola_msm8953" remote="github" revision="lineage-18.1" />
+ </manifest>
